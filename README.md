@@ -26,3 +26,14 @@ The brief format includes:
 - Add examples to the calls, responses, and error handling
 
 Something to note is to be consistent with the style being used; you can come up with one or use existing ones.
+
+### Resources
+[idratherbewriting](https://idratherbewriting.com/)
+
+[technical writer style guide by Wonexo](https://wonexo.hashnode.dev/how-to-write-a-style-guide-as-a-technical-writer)
+
+[smartbear](https://smartbear.com/academy/#live)
+
+[technical writer style guide by Wonexo](https://wonexo.hashnode.dev/getting-started-in-technical-writing)
+
+
